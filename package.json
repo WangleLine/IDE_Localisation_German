@@ -1,6 +1,6 @@
 {
   "name": "@localisation_plugins/german",
-  "version": "1.0.0",
+  "version": "{$MAJOR}.{$MINOR}.{$BUILD}",
   "description": "German IDE localisations",
   "main": "index.js",
   "scripts": {
